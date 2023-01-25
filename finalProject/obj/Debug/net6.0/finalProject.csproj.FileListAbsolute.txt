@@ -1,0 +1,15 @@
+C:\finalProject\finished_lesson\finalProject\bin\Debug\net6.0\finalProject.exe
+C:\finalProject\finished_lesson\finalProject\bin\Debug\net6.0\finalProject.deps.json
+C:\finalProject\finished_lesson\finalProject\bin\Debug\net6.0\finalProject.runtimeconfig.json
+C:\finalProject\finished_lesson\finalProject\bin\Debug\net6.0\finalProject.dll
+C:\finalProject\finished_lesson\finalProject\bin\Debug\net6.0\finalProject.pdb
+C:\finalProject\finished_lesson\finalProject\obj\Debug\net6.0\finalProject.csproj.AssemblyReference.cache
+C:\finalProject\finished_lesson\finalProject\obj\Debug\net6.0\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\finalProject\finished_lesson\finalProject\obj\Debug\net6.0\finalProject.AssemblyInfoInputs.cache
+C:\finalProject\finished_lesson\finalProject\obj\Debug\net6.0\finalProject.AssemblyInfo.cs
+C:\finalProject\finished_lesson\finalProject\obj\Debug\net6.0\finalProject.csproj.CoreCompileInputs.cache
+C:\finalProject\finished_lesson\finalProject\obj\Debug\net6.0\finalProject.dll
+C:\finalProject\finished_lesson\finalProject\obj\Debug\net6.0\refint\finalProject.dll
+C:\finalProject\finished_lesson\finalProject\obj\Debug\net6.0\finalProject.pdb
+C:\finalProject\finished_lesson\finalProject\obj\Debug\net6.0\finalProject.genruntimeconfig.cache
+C:\finalProject\finished_lesson\finalProject\obj\Debug\net6.0\ref\finalProject.dll
