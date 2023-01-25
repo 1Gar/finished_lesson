@@ -27,7 +27,7 @@ public class MyLibrary
 
     }
 
-    // 4. Сколько данных в массиве содержат 3 символа 
+    // 4. Сколько данных в массиве содержат количество символов, указанных в теле задачи 
     public static int CheckArray(string[] array, int length)
     {
         int result = 0;
@@ -38,7 +38,7 @@ public class MyLibrary
         return result;
     }
 
-    //5. Заполнение нового массива данными с количеством символов <=3
+    //5. Заполнение нового массива данными с новым количеством символов
     public static void NewArray(string[] array, string[] arrNew, int result)
     {
         int temp = 0;
